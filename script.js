@@ -8,7 +8,7 @@ const categories = [
 const bestSellers = [
   {
     name: "Capricciosa",
-    image: "assets/product-images/capricciosa.png",
+    image: "assets/product-images/capricciosa.jpg",
     size: "24/32/42 cm",
     desc: "pelat, kačkavalj, šunka, pečurke, masline, origano",
     price: "500/900/1200 rsd",
@@ -36,7 +36,7 @@ const bestSellers = [
 const pizzas = [
   {
     name: "Capricciosa",
-    image: "assets/product-images/capricciosa.png",
+    image: "assets/product-images/capricciosa.jpg",
     size: "24/32/42 cm",
     desc: "pelat, kačkavalj, šunka, pečurke, masline, origano",
     price: "500/900/1200 rsd",
@@ -85,7 +85,7 @@ const pizzas = [
   },
   {
     name: "Quatro Stagioni",
-    image: "assets/product-images/capricciosa.png",
+    image: "assets/product-images/capricciosa.jpg",
     size: "24/32/42 cm",
     desc: "pelat, kačkavalj, šunka, kulen, pečurke",
     price: "550/1000/1300 rsd",
