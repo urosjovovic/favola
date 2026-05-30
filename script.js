@@ -85,7 +85,7 @@ const pizzas = [
   },
   {
     name: "Quatro Stagioni",
-    image: "assets/product-images/capricciosa.jpg",
+    image: "assets/product-images/quattro stagioni.jpg",
     size: "24/32/42 cm",
     desc: "pelat, kačkavalj, šunka, kulen, pečurke",
     price: "550/1000/1300 rsd",
