@@ -1,8 +1,8 @@
 const categories = [
-  { title: "Pice", image: "assets/cat-pizza.png", target: "pizza" },
-  { title: "Burgeri", image: "assets/cat-burger.png", target: "burgeri" },
-  { title: "Palačinke", image: "assets/cat-pancakes.png", target: "palacinke" },
-  { title: "Pomfrit", image: "assets/cat-fries.png", target: "pomfrit" },
+  { title: "Pice", image: "assets/category-images/cat-pizza.png", target: "pizza" },
+  { title: "Burgeri", image: "assets/category-images/cat-burger.png", target: "burgeri" },
+  { title: "Palačinke", image: "assets/category-images/cat-pancakes.png", target: "palacinke" },
+  { title: "Pomfrit", image: "assets/category-images/cat-fries.png", target: "pomfrit" },
 ];
 
 const bestSellers = [
