@@ -502,7 +502,7 @@ h3 {
   content: "";
   position: absolute;
   inset: 0 0 0 58%;
-  background: url("assets/cat-pancakes.png") center / cover no-repeat;
+  background: url("assets/category-images/cat-pancakes.png") center / cover no-repeat;
   opacity: 0.08;
   transform: rotate(180deg) scale(1.2);
 }
@@ -574,6 +574,26 @@ h3 {
 
 .burger-grid .product-card:nth-child(n + 4) {
   transform: translateX(50%);
+}
+
+.menu-note {
+  width: min(var(--max), 100%);
+  margin: 38px auto 0;
+  color: var(--white);
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: clamp(42px, 3.6vw, 68px);
+  font-weight: 400;
+  line-height: 0.95;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.menu-note strong {
+  color: var(--yellow);
+  font-family: "Montserrat", Arial, sans-serif;
+  font-size: clamp(24px, 2vw, 38px);
+  font-weight: 900;
+  text-transform: none;
 }
 
 .pancake-section {
